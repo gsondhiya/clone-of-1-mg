@@ -1,0 +1,26 @@
+.parent{
+    display: flex;
+    height: 700px;
+    border: solid #82c341;
+    justify-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQ_-27T2G_OX51FNnFwymt9DojptRtnFeLA&usqp=CAU);
+background-size: cover;
+}
+.child{
+   
+    height: 600px;
+    width: 500px;
+    margin:auto;
+}
+
+.form>input{
+   
+    border: solid #82c341;
+ height: 45px;
+ width: 100%;
+}
+.submit{
+    border: solid #82c341;
+ height: 50px;
+ width: 100%;  
+} 
